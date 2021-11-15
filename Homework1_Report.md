@@ -8,7 +8,7 @@
 - The input numbers should be **integers N**. 
 - The output would be **the first N emirps**.
 
-![截屏2021-10-14 下午8.16.20](../images/截屏2021-10-14 下午8.16.20.png)
+![截屏2021-10-14 下午8.16.20](../images/截屏2021-10-14%20下午8.16.20.png)
 
 ![截屏2021-10-14 下午8.16.30](../images/截屏2021-10-14 下午8.16.30.png)
 
