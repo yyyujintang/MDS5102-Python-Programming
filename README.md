@@ -1,4 +1,4 @@
-# Homework-Python-Programming
+# Homework for MDS5102-Python-Programming
 
 [Homework1 Report](https://github.com/yyyujintang/Homework-Python-Programming/blob/main/Homework1_Report.md)
 
